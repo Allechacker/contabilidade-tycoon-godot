@@ -1,0 +1,13 @@
+CONTABILIDADE TYCOON - Godot, parte 1 (mapa da cidade)
+
+1. Baixe o Godot 4.3 (versao "Standard", NAO a .NET) em godotengine.org/download. E um arquivo unico, sem instalador.
+2. Descompacte este zip.
+3. Abra o Godot, clique em "Importar", escolha o arquivo project.godot desta pasta e depois em "Importar e editar".
+4. Aperte F5 (ou o botao de play no canto superior direito) para jogar.
+
+Como testar:
+- Arraste para os lados para andar pela cidade.
+- Toque em um escritorio (cinza com cadeado = bloqueado) ou em uma casa.
+- Os botoes "TESTE" dao dinheiro e XP para voce desbloquear os escritorios e ver o mapa mudar.
+
+Se aparecer erro vermelho, copie a mensagem inteira e me envie.
